@@ -1,0 +1,7 @@
+{
+  "name": "In-game Pause & Teleport Command Plugin",
+  "author": "PaperCube",
+  "main": "studio.papercube.mindustryplugins.PlayerPauseCommandPlugin",
+  "description": "Provides the following commands: /pause, /p, /tp, /here, /back",
+  "version": "0.3"
+}
